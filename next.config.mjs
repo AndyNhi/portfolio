@@ -3,6 +3,9 @@ const nextConfig = {
   output: "export",
   basePath: `${process.env.BASE_PATH}`,
   reactStrictMode: true,
+  images: {
+    unoptimized: true,
+  },
 };
 
 export default nextConfig;
