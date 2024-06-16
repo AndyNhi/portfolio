@@ -21,7 +21,7 @@ export default function Home() {
             break all night
           </div>
           <div className="shrink font-primary text-[calc(10vw+10vh)] leading-none tracking-tighter text-slate-200">
-            87 'til infinity
+            87 til infinity
           </div>
         </div>
       </section>
